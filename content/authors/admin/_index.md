@@ -32,7 +32,7 @@ education:
     institution: University of BURUNDI
     year: 2017
   - course: BSc
-    institution:LEY RU 
+    institution: LEY RU 
     year: 2012
 
 # Social/Academic Networking
