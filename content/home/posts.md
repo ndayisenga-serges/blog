@@ -39,7 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-##  ссылки на научные и библиометрические ресурсы:
+##Г±Г±Г»Г«ГЄГЁ Г­Г  Г­Г ГіГ·Г­Г»ГҐ ГЁ ГЎГЁГЎГ«ГЁГ®Г¬ГҐГІГ°ГЁГ·ГҐГ±ГЄГЁГҐ Г°ГҐГ±ГіГ°Г±Г»:
 * [eLibrary](https://elibrary.ru/)
 * [Google Scholar](https://scholar.google.com/)
 * [ORCID](https://orcid.org/)
@@ -49,5 +49,5 @@ design:
 * [arXiv](https://arxiv.org/)
 * [github](https://github.com/)
 ---
-## la vue ? MOSCOU
-Il est difficile ? vivrer ? Moscou!
+##AMOSCOU
+Il est difficile ? vivrer ? Moscou.
