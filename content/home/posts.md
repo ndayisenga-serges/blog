@@ -39,7 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-##ññûëêè íà íàó÷íûå è áèáëèîìåòðè÷åñêèå ðåñóðñû:
+##ссылки на научные и библиометрические ресурсы
 * [eLibrary](https://elibrary.ru/)
 * [Google Scholar](https://scholar.google.com/)
 * [ORCID](https://orcid.org/)
@@ -49,5 +49,5 @@ design:
 * [arXiv](https://arxiv.org/)
 * [github](https://github.com/)
 ---
-##AMOSCOU
-Il est difficile ? vivrer ? Moscou.
+##A MOSCOU
+* Il est difficile de vivrer à Moscou.
