@@ -41,5 +41,5 @@ experience:
     location: BURUNDI
     date_start: '2016-08-07'
     date_end: '2017-08-07'
-    description: travailler dans un hotel.
+    description: travailler dans un hotel au Burundi
 ---
