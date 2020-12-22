@@ -35,8 +35,8 @@ url_video: ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   E.g. `slides = "commerce"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-commercer des matier premiers dans mon payer avec les autres pays
+commerce de matiers premiers dans mon payer avec les autres pays
