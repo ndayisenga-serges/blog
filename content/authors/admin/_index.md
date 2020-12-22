@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-NDAYISENGA Serges - etudiant de l'univesite de RUDN En mathematique applique et informatique.
+NDAYISENGA Serges - etudiant de l'univesite de RUDN En departement de mathematique applique et informatique.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
