@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: +7977 908 69 46
-subtitle:
+title: contact
+subtitle: NDAYISENGA Serges
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: www.nserges@gmail.com
   
   # Email form provider
   form:
