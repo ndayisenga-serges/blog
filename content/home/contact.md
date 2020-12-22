@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: +7 977 908 69 46
 
 # This file represents a page section.
 headless: true
