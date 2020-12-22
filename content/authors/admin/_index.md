@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: masters in applied statistic and unformatic
+  - course: studient
     institution: RUDN University
     year: 2020
   - course: Bacherier in mathematic
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-NDAYISENGA Serges - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+NDAYISENGA Serges - etudiant de l'univesite de RUDN En mathematique applique et informatique.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
