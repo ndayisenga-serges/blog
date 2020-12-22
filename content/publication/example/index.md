@@ -29,10 +29,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: idée de business très rentable : des montres connectées pour malvoyants
-Selon les derniers chiffres de l’organisation mondiale pour la santé, 2 à 300 millions d’êtres humains souffrent de déficience visuelle et 35 à 40 millions environ sont totalement aveugles.
-
-Cela a donné des idées à une entreprise coréenne qui a créé une montre connectée dont l’écran est en relief. Elle a ainsi pu inclure des caractères de braille. Pour l’instant, la montre n’est pas encore aux normes européennes et n’est donc pas vendue sous nos contrées
+abstract: idée de business très rentable : des montres connectées pour malvoyants. Selon les derniers chiffres de l’organisation mondiale pour la santé, 2 à 300 millions d’êtres humains souffrent de déficience visuelle et 35 à 40 millions environ sont totalement aveugles.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
