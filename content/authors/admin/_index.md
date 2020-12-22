@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: studient
+  - course: studient of RUDN
     institution: RUDN University
     year: 2020
   - course: Bacherier in mathematic
