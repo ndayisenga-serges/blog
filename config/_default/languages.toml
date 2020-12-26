@@ -18,3 +18,6 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+[ru]
+languageCode = "ru"
+contentDir = "content/ru"
