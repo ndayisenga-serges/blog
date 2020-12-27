@@ -31,15 +31,14 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Gerant
+        * Manager
         
         
         
-  - title: gerant
+  - title: Manager
     company: Hotel
     company_url: ''
     location: BURUNDI
     date_start: '2016-08-07'
     date_end: '2017-08-07'
-    description: travailler dans un hotel au Burundi
----
+    description: working in a hotel in Burundi

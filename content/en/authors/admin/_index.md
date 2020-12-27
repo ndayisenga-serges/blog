@@ -19,8 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - statistic
-- programmation
-- Information Retrieval
+- programming
+- Récupération d'informations
 
 # Education to show in About widget
 education:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-NDAYISENGA Serges - etudiant de l'univesite de RUDN En departement de mathematique applique et informatique.
+NDAYISENGA Serges - student of RUDN University in the department of applied mathematics and computer science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

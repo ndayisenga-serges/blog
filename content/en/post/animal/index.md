@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Les animaux constituent une grande importante dans la vie de l'homme en particulier et dans l'envirronnement en generale
+Animals are of great importance in the life of man in particular and in the environment in general.

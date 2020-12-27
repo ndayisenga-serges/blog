@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A MOSCOU"
+title: "IN MOSCOW"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-RUDN C'est l'universite qui se situe à Moscou et j'etudie à cet universite 
+RUDN It's a university located in Moscow and I study at this university. 

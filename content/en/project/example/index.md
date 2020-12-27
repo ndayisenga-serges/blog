@@ -1,5 +1,5 @@
 ---
-title: or et zinc
+title: gold and zinc
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-L'or et les zinc sont des matiers premiries les plus recherche dans le monde
+Gold and zinc are the most sought-after raw materials in the world.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mon Projet"
+title: "My Project"
 summary: "commerce des matier premier"
 authors: []
 tags: []
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-commerce de matiers premiers dans mon payer avec les autres pays
+trade of raw materials in my pay with other countries
