@@ -4,32 +4,32 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Главиный"
+  name = "Р“Р»Р°РІРЅС‹Р№"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Посты"
+  name = "РџРѕСЃС‚С‹"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Проекты"
+  name = "РџСЂРѕРµРєС‚С‹"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Обсуждение"
+  name = "РћР±СѓР¶РґРµРЅРёРµ"
   url = "#talks"
   weight = 40
 
 [[main]]
-  name = "Публикации"
+  name = "РџСѓР±Р»РёРєР°С†РёРё"
   url = "#featured"
   weight = 50
 
 [[main]]
-  name = "Контакты"
+  name = "РљРѕРЅС‚Р°РєС‚С‹"
   url = "#contact"
   weight = 60
 
