@@ -36,7 +36,7 @@ experience:
         
         
   - title: 
-    company: Hotel
+    company: HOTEL
     company_url: ''
     location: BURUNDI
     date_start: '2016-08-07'
