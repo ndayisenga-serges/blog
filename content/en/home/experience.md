@@ -31,14 +31,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Manager
-        
-        
-        
+        *Manager     
   - title: 
     company: HOTEL
     company_url: ''
     location: BURUNDI
     date_start: '2016-08-07'
     date_end: '2017-08-07'
-    description: 'working in a hotel in Burundi'
+    description: working in a hotel in Burundi
