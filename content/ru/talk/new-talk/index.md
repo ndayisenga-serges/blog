@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New Talk"
+title: "Новый разговор"
 event:
 event_url:
 location:
