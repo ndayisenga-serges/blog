@@ -31,7 +31,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Manager
+        * 
         
         
         
