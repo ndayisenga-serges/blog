@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cours"
+title: "Курс"
 subtitle: ""
 summary: ""
 authors: []

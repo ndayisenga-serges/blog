@@ -23,23 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: HOTEL
+    company: ОТЕЛЬ
     company_url: ''
-    location: BURUNDI
+    location: БУРУНДИ
     date_start: '2016-08-07'
     date_end: '2017-08-07'
     description: |2-
         Responsibilities include:
         
-        * Gerant
+        * Менеджер
         
         
         
-  - title: gerant
-    company: Hotel
+  - title: Менеджер
+    company: ОТЕЛ
     company_url: ''
-    location: BURUNDI
+    location: Бурунди
     date_start: '2016-08-07'
     date_end: '2017-08-07'
-    description: travailler dans un hotel au Burundi
+    description: работа в отеле в Бурунди
 ---

@@ -1,6 +1,5 @@
 ---
-title: TELEPHONE
-
+title: ТЕЛЕФОН
 event: Wowchemy Conference
 event_url: https://example.org
 
@@ -13,7 +12,7 @@ address:
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "le telphone est un outil de communication le plus utiliser par beaucoup des gens dans le monde"
+abstract: "Телефон является средством связи, наиболее часто используемым многими людьми во всем мире."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

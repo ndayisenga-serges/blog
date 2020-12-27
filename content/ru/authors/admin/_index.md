@@ -1,16 +1,16 @@
 ---
 # Display name
-title: NDAYISENGA Serges
+title: Ндайисенга Серж
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Student 
+role: Студент 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: RUDN University
+- name: РУДН университет
   url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,18 +18,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- statistic
-- programmation
-- Information Retrieval
+- статистика
+- формирование программы
+- Поиск информации
 
 # Education to show in About widget
 education:
   courses:
-  - course: studient of RUDN
-    institution: RUDN University
+  - course: студент РУДН
+    institution: РУДН университет
     year: 2020
-  - course: Bacherier in mathematic
-    institution: University of BURUNDI
+  - course: холостяк
+    institution: Университет БурундиI
     year: 2017
   - course: BSc
     institution: LEY RU 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-NDAYISENGA Serges - etudiant de l'univesite de RUDN En departement de mathematique applique et informatique.
+Ндайисенга Серж - студент РУДН Университета на кафедре прикладной математики и информатики
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

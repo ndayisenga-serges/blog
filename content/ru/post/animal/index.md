@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Animal"
+title: "Животное"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Les animaux constituent une grande importante dans la vie de l'homme en particulier et dans l'envirronnement en generale
+Животные имеют большое значение в жизни человека в частности и в окружающей среде в целом.
